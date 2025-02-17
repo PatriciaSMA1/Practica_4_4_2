@@ -11,7 +11,7 @@ package EjemploJava2025;
 public class EjemploJava2025 {
 
     public static void main(String[] args) {
-        System.out.println("Hola Patricia");
+        System.out.println("Hola Juan, buenas tardes");
 
     }
 }
